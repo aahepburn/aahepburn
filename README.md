@@ -1,4 +1,4 @@
-# Hi there, I'm [Alexander](https://github.com/aahepburn) ☕️
+# Hi there ☕️
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating impactful software solutions. Here's a bit about me:
 
