@@ -1,8 +1,4 @@
-# Hi there ☕️
-
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating impactful software solutions. Here's a bit about me:
-
-## About Me
+# About Me
 
 - 🌱 I’m currently learning: Advanced algorithms, cloud computing, and DevOps practices.
 - 👯 I’m looking to collaborate on: Open source projects, innovative software solutions, and anything that pushes the boundaries of technology.
