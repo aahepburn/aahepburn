@@ -1,6 +1,6 @@
 # About Me
 
-Alexander specialises in data science, natural language processing, causality, research and writing. His highly international background makes him a good fit for cross-cultural teams. 
+Alexander is a data scientist and researcher specialising in natural language processing and causality. His highly international background makes him a good fit for cross-cultural teams. 
 
 He is currently based out of Amsterdam and is open for work.
 
