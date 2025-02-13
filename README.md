@@ -1,6 +1,8 @@
 # About Me
 
-Alexander is a data scientist and researcher specialising in natural language processing and causality. His interdisciplinary background allows him to serve as a bridge between STEM and non-technical professionals.
+Alexander is a data scientist and researcher specialising in natural language processing and causality.
+
+His interdisciplinary background allows him to serve as a bridge between STEM and non-technical professionals.
 
 He is currently based out of Amsterdam and is open for work.
 
