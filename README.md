@@ -1,6 +1,6 @@
 # About Me
 
-Alexander is a data scientist and researcher specialising in NLP, causality, and digital humanities.
+Alexander is a data scientist and researcher specialising in NLP and causality.
 
 His interdisciplinary background allows him to serve as a bridge between STEM and non-technical professionals.
 
