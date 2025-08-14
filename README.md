@@ -2,7 +2,7 @@
 
 Alexander is a trained data scientist specialising in natural language processing, causality and business analytics. The focus of his work has been on robust ML systems, addressing issues like distribution shifts and concept drift. His international, interdisciplinary background allows for effective cross-domain collaboration, necessary in diverse data science teams. 
 
-He is passionate about privacy and responsible AI development. Alexander is a contributor to several open-source initiatives.
+He is passionate about privacy and responsible AI development. Alexander is a contributor to several open-source initiatives, some of which are listed on this page.
 
 He is currently based out of Amsterdam and open for work.
 
