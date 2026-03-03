@@ -1,4 +1,4 @@
-# About Me
+# About
 
 Alexander is a data scientist, applied researcher, and Python programmer. He is passionate about AI ethics and digital privacy.
 
