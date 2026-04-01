@@ -4,6 +4,8 @@ Alexander is a data scientist, applied researcher, and Python programmer. He is 
 
 He also likes to contribute to open-source projects, some of which I listed on this page.
 
+### Favourite tools:
+
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
