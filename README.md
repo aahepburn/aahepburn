@@ -30,3 +30,4 @@ He also likes to contribute to open-source projects, some of which I listed on t
 <!-- Typesetting -->
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Typst](https://img.shields.io/badge/Typst-239DAD?style=flat&logo=typst&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-4B8BBE?style=flat&logo=quarto&logoColor=white)
