@@ -1,7 +1,7 @@
 # about
 
-Alexander is a data scientist, applied researcher, and Python programmer. He is passionate about AI ethics and digital privacy.
+Alex Hepburn is an applied AI engineer and researcher. His background is in natural language processing.
 
-He also likes to contribute to open-source projects, some of which I listed on this page.
+He likes to contribute to open-source projects, some of which are listed on this page.
 
-Read more on his company's website -- [Quiet Signals Lab](https://quietsignalslab.com/).
+Read more on his website -- [Quiet Signals Lab](https://quietsignalslab.com/).
